@@ -1,9 +1,13 @@
 # Desing-Patterns
 
 Memento Pattern
+![img.png](images/memento.png)
 
 State Pattern
+![img.png](images/state.png)
 
 Iterator Pattern 
+![img.png](images/iterator.png)
 
-State Pattern
+Strategy Pattern
+![img.png](images/strategy.png)
