@@ -1,15 +1,19 @@
 # Desing-Patterns
 
 Memento Pattern
-<img alt="img.png" src="images/memento.png" width="300"/>
+<br>
+<img alt="img.png" src="images/memento.png" width="400"/>
 
 State Pattern
-![img.png](images/state.png)
+<br>
+<img alt="img.png" src="images/state.png" width="400"/>
 
-Iterator Pattern 
-![img.png](images/iterator.png)
+Iterator Pattern
+<br>
+<img alt="img.png" src="images/iterator.png" width="400"/>
 
 Strategy Pattern
-![img.png](images/strategy.png)
+<br>
+<img alt="img.png" src="images/strategy.png" width="400"/>
 
 Template Method Pattern
