@@ -1,19 +1,31 @@
 # Desing-Patterns
 
+<table>
+<tr>
+<td>
 Memento Pattern
-<br>
+
 <img alt="img.png" src="images/memento.png" width="400"/>
-
+</td>
+<td>
 State Pattern
-<br>
+
 <img alt="img.png" src="images/state.png" width="400"/>
-
+</td>
+</tr>
+<tr>
+<td>
 Iterator Pattern
-<br>
-<img alt="img.png" src="images/iterator.png" width="400"/>
 
+<img alt="img.png" src="images/iterator.png" width="400"/>
+</td>
+<td>
 Strategy Pattern
-<br>
+
 <img alt="img.png" src="images/strategy.png" width="400"/>
+</td>
+</tr>
 
 Template Method Pattern
+
+</table>
